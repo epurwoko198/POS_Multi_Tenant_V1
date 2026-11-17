@@ -1,6 +1,6 @@
 # Berkah POS — Platform POS SaaS Multi-Tenant
 
-Aplikasi POS SaaS lengkap sesuai `Blueprint_Arsitektur_POS_SaaS_PHP84.docx`: PHP 8.3 + mysqli,
+Aplikasi POS SaaS yang menggunakan PHP 8.3 + mysqli,
 dashboard web central, mesin AI Python lokal, dan lisensi SaaS berlapis yang mengaktifkan modul
 sesuai paket, lisensi bertanda tangan, dan override tenant.
 
